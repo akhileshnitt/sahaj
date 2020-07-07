@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sahaj.text.processor.WikiProcessorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-07T09:09:55" hostname="8c85904d6ba6" time="0.024">
+  <properties/>
+  <testcase name="process" classname="com.sahaj.text.processor.WikiProcessorTest" time="0.024"/>
+  <system-out><![CDATA[grévy's zebra and the mountain zebra
+aims to breed zebras that are phenotypically similar to the quagga
+horses and donkeys
+the plains zebra, the grévy's zebra and the mountain zebra
+subgenus hippotigris
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
